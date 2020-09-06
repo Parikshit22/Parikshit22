@@ -28,6 +28,16 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
+<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" />
+<img align="left" alt="Matplotlib" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" />
+<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy-logo.svg" />
+<img align="left" alt="Pytorch" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />
+<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" />
+<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/pallets/flask/master/artwork/logo-full.svg" />
+<img align="left" alt="Transformers" width="26px" src="https://github.com/huggingface/transformers/blob/master/docs/source/imgs/transformers_logo_name.png" />
+
+
+
 
 <br />
 <br />
