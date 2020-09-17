@@ -2,7 +2,7 @@
 
 ### More About Me!
 
-- 🔭 I’m currently working as Data Scientist
+- 🔭 I’m currently working as Full Stack Developer
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with different Programmers and Content Creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -19,21 +19,17 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Tensor-Flow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
-<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" />
-<img align="left" alt="Matplotlib" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" />
-<img align="left" alt="Numpy" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy-logo.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Tensor-Flow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Pytorch" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg" />
-<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/pallets/flask/master/artwork/logo-full.svg" />
 <img align="left" alt="Transformers" width="26px" src="https://github.com/huggingface/transformers/blob/master/docs/source/imgs/transformers_logo_name.png" />
 
 
