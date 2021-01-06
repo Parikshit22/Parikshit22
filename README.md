@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as Java Full Stack Developer
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with different Programmers and Content Creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cricket and reading Novel.
 - 👨‍🏫 My Mentors: Stack Overflow Community
 
